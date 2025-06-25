@@ -86,7 +86,3 @@ The model achieves a high and stable performance, validated through a rigorous 5
 -   **Standard Deviation**: **~0.64%**
 
 The low standard deviation confirms the model's robustness. The detailed learning curves and confusion matrix analysis can be found in the full report.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
